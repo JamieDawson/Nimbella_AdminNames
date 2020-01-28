@@ -10,6 +10,6 @@ info:
     url: 'http://www.apache.org/licenses/LICENSE-2.0.html'
 sourceBasePath: https://raw.githubusercontent.com/JamieDawson/Nimbella_AdminNames/master/src
 commands:
-  echo2:
+  AdminNames:
     sourcePath: /AdminNames.js
     description: Display the names of Admins

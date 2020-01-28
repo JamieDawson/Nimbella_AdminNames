@@ -8,8 +8,8 @@ info:
   license:
     name: 'Apache 2.0'
     url: 'http://www.apache.org/licenses/LICENSE-2.0.html'
-sourceBasePath: https://raw.githubusercontent.com/JamieDawson/echo/master/src
+sourceBasePath: https://raw.githubusercontent.com/JamieDawson/Nimbella_AdminNames/master/src
 commands:
   echo2:
-    sourcePath: /echo.js
+    sourcePath: /AdminNames.js
     description: Display the names of Admins

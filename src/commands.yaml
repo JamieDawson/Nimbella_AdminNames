@@ -1,0 +1,15 @@
+OpenCSI: 1
+info:
+  description: "Displays names of admins"
+  # version: "1.0.0"
+  title: myset
+  termsOfService: 'https://nimbella.com/terms'
+  contact: demo@nimbella.com
+  license:
+    name: 'Apache 2.0'
+    url: 'http://www.apache.org/licenses/LICENSE-2.0.html'
+sourceBasePath: https://raw.githubusercontent.com/JamieDawson/echo/master/src
+commands:
+  echo2:
+    sourcePath: /AdminNames.js
+    description: Displays names of admins

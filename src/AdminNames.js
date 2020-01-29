@@ -6,13 +6,12 @@ async function _command(text, secrets = {}) {
     ]
       
     var fullSentence = "`Admins you can contact are :`"
-    var x = names.toString();
     
     for (var i = 0; i < names.length; i++){
        fullSentence = fullSentence.concat(names[i]).concat(" ");
     }
     
-      return {
+    return {
         response_type: 'in_channel', // or `ephemeral` for private response
         text: fullSentence
       };
